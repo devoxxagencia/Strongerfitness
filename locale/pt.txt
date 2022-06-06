@@ -26,13 +26,11 @@ panorama_3E4B8EE1_34EE_A430_41A9_AD4B192D67A0.label = IMG_20220521_073135_00_mer
 panorama_3E4CC66A_34EF_6430_41A6_96AF7F6D9C7D.label = PARTE SUPERIOR 2
 panorama_3E4D021F_34EE_9C11_4194_C8AD2626593E.label = INFERIOR 1
 panorama_3E4D14A5_34EE_A431_41C7_BF74C95EB219.label = PARTE SUPERIOR 1
-panorama_3E4D3A44_34EE_AC77_41C8_2FB7D4C7DA16.label = INFERIOR 6
 panorama_3E4D4006_34EE_FBF3_41BE_776F9D283CCB.label = INFERIOR 3
 panorama_3E4D438F_34EE_BCF1_41BD_B35927329E10.label = INFERIOR 2
 panorama_3E4D55BF_34ED_A411_41C3_F813C1955BDF.label = Stronger Fitness
 panorama_3E4D6EB2_34EE_E410_41A2_27E697641578.label = INFERIOR 4
 panorama_3E4DA830_34ED_6C10_4195_6ACA9EB4C8C8.label = INFERIOR 7
-panorama_3E4DCC97_34EE_A411_41C1_F4DA1DE8A690.label = INFERIOR 5
 panorama_3E4DF731_34ED_6411_41B6_34F68925F68A.label = CROSSFIT 
 panorama_3E4F174D_34EF_6471_41B6_33A59BDDB8C0.label = SUPERIOR 3
 panorama_3E4F4A9C_34EF_AC10_4171_F08498572FA5.label = CONJUNTO C SUPERIOR 3
@@ -42,14 +40,14 @@ panorama_3E4FBC65_34EF_6430_41C2_3E2DE9905638.label = CONJUNTO 03 COM ADD PROJET
 panorama_3E4FED83_34EE_A4F1_41C8_D59B7A4064A2.label = IMG_20220521_073306_00_merged
 panorama_3E4FED9D_34EF_6411_41C7_21605DF1EC62.label = IMG_20220521_073503_00_merged
 panorama_3F717E81_34EE_E4F1_41C1_057F7889CD57.label = IMG_20220521_073018_00_merged
-video_160E1B62_3712_AC33_41AA_A386173675CF.label = WhatsApp Video 2022-05-18 at 13.03.55
-video_2AF63B26_3512_AC33_41B3_B1BF3CB1B6B3.label = WhatsApp Video 2022-06-04 at 19.54.18
-video_2F59BC6C_3515_E437_41C0_9E12454B12C0.label = WhatsApp Video 2022-05-18 at 13.03.55
+video_12414745_3712_A471_41BA_2977B7488738.label = CORRETO 2
+video_13F1732E_3737_FC33_41AD_BC19419D9DA8.label = CORRETO
 
 ## Popup
 
 ### Body
-htmlText_1718E4F8_3713_641F_41C7_6102836A70DD.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_13BA09AA_3737_AC33_41B9_81AD523E997B.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_13F4494D_3712_EC71_41AE_774609D97E9C.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Action
 
